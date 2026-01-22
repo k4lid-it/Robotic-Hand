@@ -86,5 +86,5 @@ Supports people with disabilities by improving independence and quality of life 
 ---
 
 ## Demo & Media
-/media/hand.jpg  
-/media/circuit.png  
+![Demo](Screenshots/demo.gif)
+![Demo](Screenshots/EMG.png)
